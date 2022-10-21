@@ -28,6 +28,7 @@ body {
     max-width: 375px;
     text-align: center;
     padding: 60px 25px 60px 25px;
+    flex-direction: column; 
     background-image: url( '/order-summary-component-main/images/pattern-background-mobile.svg');
     background-repeat: no-repeat; 
     background-color: var(--Pale-blue);
