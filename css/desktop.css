@@ -1,6 +1,6 @@
 body {
-    
-    background-image: url( '/order-summary-component-main/images/pattern-background-desktop.svg');
+    flex-direction: column; 
+    background-image: url('/backgroundDesktop.svg');
     background-repeat: no-repeat; 
     background-color: hsl(225, 100%, 94%);
     
