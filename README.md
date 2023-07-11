@@ -18,6 +18,6 @@ This challenge is to build the product preview card component and get it looking
 
 # Author
 
-- Autor - [@AndresF-SanchezG](https://github.com/AndresF-Sanchez)
+- Autor - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
 - School - [Frontend Mentor](https://www.frontendmentor.io/profile/AndresF-SanchezG)
 - Challenge - [Order summary component](https://www.frontendmentor.io/solutions/desafio-realizado-con-html-y-css-Z63_462hlN)
