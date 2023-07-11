@@ -1,4 +1,4 @@
-# Order summary componentt
+# Order summary component
 
 This challenge is to build the product preview card component and get it looking as close to the design as possible.
 
@@ -9,14 +9,15 @@ This challenge is to build the product preview card component and get it looking
 
 # Screenshot
 
-![Captura2](https://github.com/AndresF-SanchezG/reto3/assets/113924667/7bc7ff39-a0a8-4766-a8d4-de35ddf46905)
+![Captura1](https://github.com/AndresF-SanchezG/reto4/assets/113924667/f4ee6d04-63ef-4d19-a65d-4314a45082cf)
+
 
 # Links
 
-- Live Site URL: [Vercel deployed app](https://reto3-sigma.vercel.app/)
+- Live Site URL: [Vercel deployed app](https://reto4-gamma.vercel.app/)
 
 # Author
 
 - Autor - [@AndresF-SanchezG](https://github.com/AndresF-Sanchez)
 - School - [Frontend Mentor](https://www.frontendmentor.io/profile/AndresF-SanchezG)
-- Challenge - [NFT preview card component](https://www.frontendmentor.io/solutions/construir-un-componente-de-tarjeta-78aMDiewvc)
+- Challenge - [Order summary component](https://www.frontendmentor.io/solutions/desafio-realizado-con-html-y-css-Z63_462hlN)
